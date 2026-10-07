@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1f5ed6f846ada2",
+        "id": "fda797040e1a87fb",
         "type": "tabs",
         "children": [
           {
-            "id": "840d049c9b4e9355",
+            "id": "a4f5ed94f73cc98e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "docs/requisitos/VALIDAÇAO V1 07-10-26.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "VALIDAÇAO V1 07-10-26"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIO/01-introducao-git-github/objetos-internos/Blob.md",
+                "file": "docs/requisitos/VALIDAÇAO V1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blob"
-            }
-          },
-          {
-            "id": "b26eaa1f6cfd3f93",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "title": "Backlinks"
             }
           },
           {
@@ -125,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIO/03-trabalhandoBranches/primeirosConceitos-stash.md",
+                "file": "docs/requisitos/VALIDAÇAO V1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from primeirosConceitos-stash"
+              "title": "Outgoing links"
             }
           },
           {
@@ -154,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "docs/requisitos/VALIDAÇAO V1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -164,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +172,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "dafc25ee953369af",
+  "active": "a4f5ed94f73cc98e",
   "lastOpenFiles": [
+    "docs/requisitos/VALIDAÇAO V1 07-10-26.md",
     "file:/home/davizinn/Repositorios/controle-de-estoque-NTI/README.md",
     "DIO/03-trabalhandoBranches/primeirosConceitos-log.md",
     "DIO/03-trabalhandoBranches/primeirosConceitos-branch.md",
@@ -210,7 +202,6 @@
     "DIO/02-versionamentoCodigo-git-github/comando-basicos/git log.md",
     "DIO/02-versionamentoCodigo-git-github/comando-basicos/git push.md",
     "DIO/02-versionamentoCodigo-git-github/comando-basicos/git commit.md",
-    "DIO/01-introducao-git-github/INDEX 01.md",
     "DIO/03-trabalhandoBranches",
     "DIO/02-versionamentoCodigo-git-github/branch",
     "DIO/02-versionamentoCodigo-git-github/desfazer -pausar",
